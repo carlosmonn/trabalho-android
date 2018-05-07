@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trabalho Android</string>
+    <string name="error_connection">Você não tem conexão com a internet</string>
+    <string name="error_request">Você não tem permissão para acessar este serviço</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintSenha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="aguarde">Aguarde</string>
+    <string name="labNomeClube">Nome do Clube</string>
+    <string name="labAbreviacaoClube">Abreviação</string>
+    <string name="labNomeJogador">Nome do Jogador</string>
+    <string name="labPosicao">Posição</string>
+    <string name="label_error_invalid_response">Resposta do servidor é inválida</string>
+    <string name="nada_mostrar">Nada para mostrar.</string>
+</resources>
